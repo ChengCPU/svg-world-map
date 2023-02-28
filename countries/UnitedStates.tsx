@@ -19,4 +19,4 @@ return (
 )
 }
 
-export default memo(UnitedStates)
+export default UnitedStates

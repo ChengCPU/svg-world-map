@@ -2,7 +2,7 @@ const TrinidadAndTobago:React.FC = () => {
 
 return (
 <g>
-<circle r="3.25" cy="435" cx="640" stroke="black"/>
+<circle style={{fill: 'rgb(149,149,149)'}} r="3.25" cy="435" cx="640" stroke="black"/>
 </g>
 )
 }

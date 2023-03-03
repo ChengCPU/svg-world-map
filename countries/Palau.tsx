@@ -2,7 +2,7 @@ const Palau:React.FC = () => {
 
 return (
 <g>
-<circle r="5" cy="453" cx="1747" stroke="black"/>
+<circle style={{fill: 'rgb(149,149,149)'}} r="5" cy="453" cx="1747" stroke="black"/>
 </g>
 )
 }

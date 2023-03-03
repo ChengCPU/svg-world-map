@@ -2,7 +2,7 @@ const Reunion:React.FC = () => {
 
 return (
 <g>
-<circle r="4" cy="635" cx="1295" stroke="black"/>
+<circle style={{fill: 'rgb(149,149,149)'}} r="4" cy="635" cx="1295" stroke="black"/>
 </g>
 )
 }

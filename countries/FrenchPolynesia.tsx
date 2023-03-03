@@ -2,7 +2,7 @@ const FrenchPolynesia:React.FC = () => {
 
 return (
 <g>
-<circle r="5" cy="614" cx="172" stroke="black"/>
+<circle style={{fill: 'rgb(149,149,149)'}} r="5" cy="614" cx="172" stroke="black"/>
 </g>
 )
 }

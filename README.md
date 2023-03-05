@@ -28,3 +28,11 @@ style={{fill: 'rgb(149,149,149)'}} (Default, grey)
 style={{fill: 'rgb(255,0,0)'}} (Red)
 style={{fill: 'rgb(0,0,0)'}} (Black)
 ```
+
+The border color can also be changed by with the same method:
+
+```
+stroke='black' (Default, black)
+stroke='rgb(255,0,0)' (Red)
+stroke='rgb(0,0,255)' (Blue)
+```

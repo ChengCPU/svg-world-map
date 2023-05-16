@@ -9,6 +9,7 @@ import Anguilla from './countries/Anguilla';
 import AntiguaAndBarbuda from './countries/AntiguaAndBarbuda';
 import Argentina from './countries/Argentina';
 import Armenia from './countries/Armenia';
+import Artsakh from './countries/Artsakh';
 import Aruba from './countries/Aruba';
 import Australia from './countries/Australia';
 import Austria from './countries/Austria';
@@ -411,6 +412,7 @@ const MapSVG:React.FC = () => {
     <Andorra />
     <Anguilla />
     <AntiguaAndBarbuda />
+    <Artsakh />
     <Aruba />
     <Bahamas />
     <Bahrain />

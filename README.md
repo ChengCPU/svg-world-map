@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-Built with TypeScript React components, includes 251 countries, territories and partially recognised countries/territories. Each country is stored in an individual component and then imported into the main MapSVG.tsx file.
+Built with TypeScript React components, includes 253 countries, territories and partially recognised countries/territories. Each country is stored in an individual component and then imported into the main MapSVG.tsx file.
 
 # Installation
 

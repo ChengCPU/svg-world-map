@@ -11,6 +11,7 @@ import Argentina from './countries/Argentina';
 import Armenia from './countries/Armenia';
 import Artsakh from './countries/Artsakh';
 import Aruba from './countries/Aruba';
+import AscensionIsland from './countries/AscensionIsland';
 import Australia from './countries/Australia';
 import Austria from './countries/Austria';
 import Azerbaijan from './countries/Azerbaijan';
@@ -228,6 +229,7 @@ import Tokelau from './countries/Tokelau';
 import Tonga from './countries/Tonga';
 import Transnistria from './countries/Transnistria';
 import TrinidadAndTobago from './countries/TrinidadAndTobago';
+import TristanDaCunha from './countries/TristanDaCunha';
 import Tunisia from './countries/Tunisia';
 import Turkey from './countries/Turkey';
 import Turkmenistan from './countries/Turkmenistan';
@@ -414,6 +416,7 @@ const MapSVG:React.FC = () => {
     <AntiguaAndBarbuda />
     <Artsakh />
     <Aruba />
+    <AscensionIsland />
     <Bahamas />
     <Bahrain />
     <Barbados />
@@ -505,6 +508,7 @@ const MapSVG:React.FC = () => {
     <Tonga />
     <Transnistria />
     <TrinidadAndTobago />
+    <TristanDaCunha />
     <TurksAndCaicos />
     <Tuvalu />
     <UnitedStatesVirginIslands />
